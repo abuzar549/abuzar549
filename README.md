@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohd Abuzar</h1>
 <h3 align="center">A passionate cross platform developer, looking to enhance my skills through practical experience</h3>
 
-- I’m currently learning **AI/ML, Rest Api**
+- 🌱 I’m currently learning **AI/ML, Rest Api**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
